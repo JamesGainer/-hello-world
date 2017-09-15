@@ -1,5 +1,6 @@
 # -hello-world
-Just another repository
 
 My names is James.
-I am learning how to use GitHub
+I am continuing to learn how to use GitHub.
+
+This is part of the second test.
